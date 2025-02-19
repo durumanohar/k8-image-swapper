@@ -10,7 +10,7 @@ require (
 	github.com/aws/aws-sdk-go v1.55.6
 	github.com/containers/image/v5 v5.32.2
 	github.com/dgraph-io/ristretto v0.2.0
-	github.com/evanphx/json-patch v5.9.0+incompatible
+	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/go-co-op/gocron v1.37.0
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/gruntwork-io/terratest v0.48.2
