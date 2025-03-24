@@ -1,13 +1,13 @@
 module github.com/estahn/k8s-image-swapper
 
 go 1.22.0
-toolchain go1.23.6
+toolchain go1.24.1
 
 require (
 	cloud.google.com/go/artifactregistry v1.16.2
 	github.com/alitto/pond v1.9.2
 	github.com/aws/aws-sdk-go v1.55.6
-	github.com/containers/image/v5 v5.34.1
+	github.com/containers/image/v5 v5.34.2
 	github.com/dgraph-io/ristretto v0.2.0
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/go-co-op/gocron v1.37.0
@@ -90,7 +90,7 @@ require (
 	github.com/containerd/typeurl/v2 v2.2.3 // indirect
 	github.com/containers/libtrust v0.0.0-20230121012942-c1716e8a8d01 // indirect
 	github.com/containers/ocicrypt v1.2.1 // indirect
-	github.com/containers/storage v1.57.1 // indirect
+	github.com/containers/storage v1.57.2 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.6 // indirect
 	github.com/cyphar/filepath-securejoin v0.3.6 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
