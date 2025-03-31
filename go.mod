@@ -7,7 +7,7 @@ require (
 	cloud.google.com/go/artifactregistry v1.16.3
 	github.com/alitto/pond v1.9.2
 	github.com/aws/aws-sdk-go v1.55.6
-	github.com/containers/image/v5 v5.34.2
+	github.com/containers/image/v5 v5.34.3
 	github.com/dgraph-io/ristretto v0.2.0
 	github.com/evanphx/json-patch v5.9.11+incompatible
 	github.com/go-co-op/gocron v1.37.0
