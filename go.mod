@@ -3,7 +3,7 @@ module github.com/estahn/k8s-image-swapper
 go 1.26
 
 require (
-	cloud.google.com/go/artifactregistry v1.19.0
+	cloud.google.com/go/artifactregistry v1.20.0
 	github.com/alitto/pond v1.9.2
 	github.com/aws/aws-sdk-go v1.55.8
 	github.com/containers/image/v5 v5.36.2
@@ -226,7 +226,7 @@ require (
 	gomodules.xyz/jsonpatch/v3 v3.0.1 // indirect
 	gomodules.xyz/orderedmap v0.1.0 // indirect
 	google.golang.org/genproto v0.0.0-20260128011058-8636f8732409 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20260128011058-8636f8732409 // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20260203192932-546029d2fa20 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260203192932-546029d2fa20 // indirect
 	google.golang.org/grpc v1.78.0 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
