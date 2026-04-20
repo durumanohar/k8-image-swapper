@@ -3,7 +3,7 @@ module github.com/estahn/k8s-image-swapper
 go 1.26
 
 require (
-	cloud.google.com/go/artifactregistry v1.22.0
+	cloud.google.com/go/artifactregistry v1.23.0
 	github.com/alitto/pond v1.9.2
 	github.com/aws/aws-sdk-go v1.55.8
 	github.com/containers/image/v5 v5.36.2
