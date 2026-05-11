@@ -19,7 +19,7 @@ require (
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
 	github.com/stretchr/testify v1.11.1
-	google.golang.org/api v0.277.0
+	google.golang.org/api v0.278.0
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	k8s.io/api v0.36.0
 	k8s.io/apimachinery v0.36.0
